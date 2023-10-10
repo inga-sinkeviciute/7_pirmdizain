@@ -1,0 +1,21 @@
+body {
+	margin: 0;
+	padding: 0;
+	background-color: whitesmoke;
+}
+
+main {
+	background-color: cornflowerblue;
+	width: 60%;
+	margin: 20%;
+}
+.left {
+	display: block;
+	width: 30%;
+	float: left;
+}
+
+img {
+	display: block;
+	float: right;
+}
