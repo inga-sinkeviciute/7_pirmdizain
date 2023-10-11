@@ -74,3 +74,20 @@ button:hover {
 button:active {
 	transform: translateY(1px);
 }
+
+.lil {
+	border: none;
+	color: #fff;
+	background-color: transparent;
+}
+
+.lil:hover {
+	background-color: transparent;
+	color: #289bf0;
+	text-decoration: underline;
+}
+
+.lil:active {
+	transform: translateY(1px);
+	color: whitesmoke;
+}
