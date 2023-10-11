@@ -8,5 +8,6 @@ To run this project, write npm run dev in the terminal
 
 #### dizainovicius
 
-Look at my picture. It's glorious [click me]
-(https://inga-sinkeviciute.github.io/7_pirmdizain/)
+Info apie readme.md: https://github.com/fefong/markdown_readme
+
+Look at my picture. It's glorious [click me](https://inga-sinkeviciute.github.io/7_pirmdizain/)
