@@ -1,5 +1,7 @@
 # 7_pirmdizain
 
+To run this project, write npm run dev in the terminal
+
 ## dizain dizain
 
 ### dizaininskas
